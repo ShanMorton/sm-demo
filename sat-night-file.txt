@@ -3,3 +3,8 @@ testing out my git skills.
 
 To change to a branch:
 git checkout -b `name of the branch`
+
+#these cmds may help me on monday with my repo.
+
+git remote add origin `path of repo that i want to push up to`
+git  remote -v
