@@ -5,6 +5,16 @@ To change to a branch:
 git checkout -b `name of the branch`
 
 #these cmds may help me on monday with my repo.
-
+git fetch
 git remote add origin `path of repo that i want to push up to`
-git  remote -v
+#this will show which 
+git remote -v
+
+
+#once a file is:   Changed, created brand new
+to see if a file is being tracked by git yet:
+
+git status
+git add `filename`
+git commit -am "PUT A MESG HERE"
+git push 
